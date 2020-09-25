@@ -1,9 +1,13 @@
 # Scroll View
 
-Use of
+How to Use
 
 ```
 $(".item").scrollview({
     class: ".viewed"
 });
 ```
+
+#Legal
+
+Author & copyright (c) 2020:  <a href="http://ahmetkaplan.org/">Ahmet Kaplan</a>
